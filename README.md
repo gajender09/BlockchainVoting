@@ -31,7 +31,7 @@ To get started with VoteChain, follow these steps:
 
 1. **Clone the Repository**: Clone the VoteChain repository to your local machine.
    
-   git clone https://github.com/gajender09/VoteChain.git
+   git clone https://github.com/gajender09/BlockchainVoting.git
 
 3. **Install Dependencies**: Install the required dependencies for the frontend and backend components.
 4. **Configure Environment**: Set up the necessary environment variables and configuration files.
